@@ -6,6 +6,6 @@
 
 # Welcome to Eolo Experience Organization 🎉
 
-We're a weather forecast service, specifically designed for surfers around the Mediterranean Sea.
+We develop and maintain a weather forecast service, specifically designed for surfers around the Mediterranean Sea.
 
 
